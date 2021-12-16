@@ -95,7 +95,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 56c7bb2a0a624ae4294cc79bd1fde08e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 12
+  speed: 50
   expandedWidth: 8
   smokeDuration: 4.5
   decreasedSmokeGravityPercent: 0.2
